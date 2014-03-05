@@ -1,0 +1,17 @@
+{
+  "name": "lcovshow",
+  "version": "0.0.0",
+  "main": "lcovparse.coffee",
+  "scripts": {
+  },
+  "author": "Tristan Straub",
+  "license": "MIT",
+  "bin" : { 
+    "lcovshow": "./index.js" 
+  },
+  "dependencies": {
+    "lcov-parse": ">=0.0.6",
+    "coffee-script": ">=1.7.1",
+    "async": ">=0.2.10"
+  }
+}

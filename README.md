@@ -1,0 +1,1 @@
+Convert lcov.info to a flat file made of the coffeescript/js sources.
