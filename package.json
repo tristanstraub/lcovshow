@@ -1,9 +1,10 @@
 {
   "name": "lcovshow",
   "version": "0.0.0",
-  "main": "lcovparse.coffee",
+  "main": "index.js",
   "scripts": {
   },
+  "url": "git@github.com:tristanstraub/lcovshow.git",
   "author": "Tristan Straub",
   "license": "MIT",
   "bin" : { 
